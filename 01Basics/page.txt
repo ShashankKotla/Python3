@@ -1,0 +1,22 @@
+---------------
+1. Syntax
+2. Data Types
+3. Variables
+4. Operations
+5. Loops
+6. Strings
+------------------
+7. Array
+8. List
+9. Map
+0. Set
+------------------
+1. function or methods
+2. different types 
+3. return types 
+4. function parameters
+5. lamda
+6. recursive
+7. internal functions
+8. async or sync function
+9. anonymous function / named function
