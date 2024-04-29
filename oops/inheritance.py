@@ -7,7 +7,7 @@
 #     def __init__(self, fname, lname) -> None:
 #         self.fname = fname
 #         self.lname = lname
-    
+
 #     def print_name(self):
 #         print(f'Full Name: {self.fname} {self.lname}')
 
@@ -19,12 +19,12 @@
     # def __init__(self, fname, lname):
     #     Person.__init__(self, fname, lname)
         # To keep the inheritance of the parent's __init__() function, add a call to the parent's __init__() function
-    
+
     # def __init__(self, fname, lname, graduation_year) -> None:
     #     super().__init__(fname, lname) # super() function that will make the child class inherit all the methods and properties from its parent
     #     self.graduation_year = 2023
     #     self.graduation = graduation_year
-    
+
 #     def welcome(self):
 #         print(f'Hi There! I\'m {self.lname} {self.fname} and i\'m a CSE graduate-{self.graduation} passout student.')
 
@@ -54,7 +54,7 @@ class Full(Details):
     def __init__(self, name, age, country):
         super().__init__(name, age)
         self.country = country
-    
+
     def det(self):
         print(f'{self.name}, {self.age}, {self.country}')
 
@@ -63,6 +63,3 @@ class Full(Details):
 
 obj = Full('test', 20, 'Unknown')
 obj.out()
-
-
-    
