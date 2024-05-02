@@ -147,3 +147,4 @@ cython_debug/
 .idea/workspace.xml
 
 .DS_Store
+requests/.DS_Store
