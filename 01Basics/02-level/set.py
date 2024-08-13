@@ -61,19 +61,21 @@ set2 = {3, 4,5}
 x = {"apple", "banana", "cherry"}
 y = {"google", "microsoft", "apple"}
 
-# x.intersection_update(y) 
-# x2 = x.intersection(y)
+# x.intersection_update(y)  #apple
+# x2 = x.intersection(y) #apple
 #Returns similar items present in both sets
 # print(x2)
+# print(x)
 
 # x.symmetric_difference_update(y)
 # x2 = x.symmetric_difference(y)
 #Returns items which are not similar.
 # print(x2)
 
-# x = {"apple", "banana", "cherry", True}
-# y = {"google", "microsoft", "apple", 1}
-# x.symmetric_difference_update(y)
+x = {"apple", "banana", "cherry", True}
+y = {"google", "microsoft", "apple", 1}
+
+# x.symmetric_difference_update(y) #Note: True & 1 are same
 # print(x)
 
 
@@ -83,15 +85,15 @@ y = {"google", "microsoft", "apple"}
 # print(x2)
 
 # x2 = x.isdisjoint(y)
-#Returns True if none of the items are present in both sets, else False.
+# Returns True if none of the items are present in both sets, else False.
 # print(x2)
 
 # x2 = x.issubset(y)
-# #returns True if all items are present in both sets
+#returns True if all items are present in both sets
 # print(x2)
 
 # x2 = x.issuperset(y)
-# #Returns True if all items of specified set values in original set.
+#Returns True if all items of specified set values in original set.
 # print(x2)
 
 # x2 = y.copy()

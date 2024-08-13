@@ -10,6 +10,7 @@
 # print(next(my_text))
 # print(next(my_text))
 # print(next(my_text))
+# print(next(my_text))
 
 # for i in text:
 #     print(i)
@@ -47,7 +48,7 @@
 #       raise StopIteration
 
 # myclass = iter(MyNumbers())
-# # myiter = iter(myclass)
+# myiter = iter(myclass)
 
 # for x in myclass:
 #   print(x, end=',')

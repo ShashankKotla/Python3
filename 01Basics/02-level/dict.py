@@ -33,7 +33,7 @@
 # x = d.keys()
 # x = d.values()
 # print(x)
-# print(d.items())
+# print(d.items()) #dict_items([('brand', 'Tesla'), ('model', 'model7'), ('year', 2024), ('colors', ['red', 'white', 'blue'])])
 
 
 # d['brand'] = "Benz"
@@ -158,16 +158,19 @@ myfamily2 = {
     'child2': child2,
     'child3' : child3
 }
-print(myfamily2)
+# print(myfamily2)
 
 #Accessing items from Nested Dict
-print(myfamily2['child1']['name'])
+# print(myfamily2['child1']['year'])
 
 #fromkeys - returns a dictionary with the specified keys and the specified value.
 x = {'one', 'two', 'three'}
 y = 0
-dd = dict.fromkeys(x, y)
-print(dd)
+# dd = dict.fromkeys(x, y)
+# print(dd)
+# x2 = {'two':2}
+# x2.update({'three': 3})
+# print(x2)
 
 
 #Methods of dict
