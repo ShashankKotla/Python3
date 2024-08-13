@@ -30,3 +30,6 @@ cars = ['tesla', 'benz', 'bmw']
 print('hello\fworld')
 
 print('hello\nworld ')
+
+cars[2] = 'Me'
+print(cars)

@@ -43,16 +43,16 @@ t = ("One", 2, 2.2, "three", "Four")
 # A tuple normally assigned with values called packing.
 # Extract values back into variables, called unpacking.
 
-# x = ("apple", "banana", "cherry")
+# x = ("apple", "banana", "cherry") #Packing
 
-# (green, red, blue) = x
+# (green, red, blue) = x #unpacking
 
 # print(green)
 # print(red)
 # print(blue)
 
 
-#Asterisk * -> assigning it to a variable, gives power to take more than one value.
+#Asterisk * -> "assigning it to a variable, gives power to take more than one value."
 
 # color = ('white', 'red', 'green', 'yellow', 'blue', 'brown')
 

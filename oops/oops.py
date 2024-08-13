@@ -88,7 +88,7 @@
 # waste.myfun()
 
 # del waste.age
-# print(waste.myfun())
+# waste.myfun()
 
 #Pass Statement
 
