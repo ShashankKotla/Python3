@@ -6,45 +6,43 @@
 
 #### 1. Basics
 
-01Basics, 02Basics, 03Basics - Introductory Python concepts and learning exercises.
+*01Basics, 02Basics, 03Basics - Introductory Python concepts and learning exercises.*
 
-oops - Object-Oriented Programming (OOP) concepts in Python.
+*oops - Object-Oriented Programming (OOP) concepts in Python.*
 
-oops_hc - Experimenting with decorators and OOP-related concepts.
+*oops_hc - Experimenting with decorators and OOP-related concepts.*
 
 #### 2. Modules & File Handling
 
-05Modules - Learning and working with Python modules.
+*05Modules - Learning and working with Python modules.*
 
-06filehandeling - File handling operations in Python.
+*06filehandeling - File handling operations in Python.*
 
 #### 3. Advanced Concepts & Experiments
 
-07Experiment - Miscellaneous Python experiments and tests.
+*07Experiment - Miscellaneous Python experiments and tests.*
 
-08main - Contains additional Python learning materials.
+*08main - Contains additional Python learning materials.*
 
-09Api - API-related implementations in Python.
+*09Api - API-related implementations in Python.*
 
-requests - Exploring Python's requests module for HTTP operations.
+*requests - Exploring Python's requests module for HTTP operations.*
 
-connection - Handling various types of connections in Python.
+*connection - Handling various types of connections in Python.*
 
 #### 4. Miscellaneous
 
-.gitignore - Standard Git ignore configurations.
-
 #### Clone this repository (if you want!😁) :
 
-git clone https://github.com/ShashankKotla/Python3
+*git clone https://github.com/ShashankKotla/Python3*
 
-Explore different folders based on your learning needs.
+*Explore different folders based on your learning needs.*
 
 
 Future Enhancements:-
 
-Add more Learning's.
+*Add more Learning's.*
 
-Enhance documentation for each section.
+*Enhance documentation for each section.*
 
 
