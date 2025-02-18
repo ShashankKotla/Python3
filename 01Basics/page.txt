@@ -19,4 +19,4 @@
 6. recursive
 7. internal functions
 8. async or sync function
-9. anonymous function / named function
+9. anonymous function / named function 
